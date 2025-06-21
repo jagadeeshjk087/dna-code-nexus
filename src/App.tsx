@@ -11,7 +11,6 @@ import Services from "./pages/Services";
 import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 const queryClient = new QueryClient();
 
